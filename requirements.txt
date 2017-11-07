@@ -1,0 +1,4 @@
+numpy
+gym
+rllab
+matplotlib
