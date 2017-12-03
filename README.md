@@ -1,7 +1,7 @@
 Deep Tutor
 ==========
 
-A collection of Jupyter notebooks for building autonomous tutoring systems with deep reinforcement learning.
+Train and evaluate review scheduling algorithms for spaced repetition.
 
 Usage
 -----
@@ -13,12 +13,6 @@ manager using
 pip install -r requirements.txt
 ```
 
-To ensure that all plotting functions work, install [latex](https://www.latex-project.org/). Start a Jupyter notebook server with
-
-```
-jupyter notebook
-```
-
 Questions and comments
 ----------------------
 
@@ -26,7 +20,13 @@ Please contact the author at `sgr [at] berkeley [dot] edu` if you have questions
 
 Citation
 --------
-If you find this software useful in your work, we kindly request that you cite the following [paper]():
+If you find this software useful in your work, we kindly request that you cite the following [paper](http://people.eecs.berkeley.edu/~reddy/files/DRL_Tutor_NIPS17_MT_Workshop.pdf):
 
 ```
+@InProceedings{Reddy/etal/17b,
+  title={Accelerating Human Learning with Deep Reinforcement Learning},
+  author={Reddy, Siddharth and Levine, Sergey and Dragan, Anca},
+  year={2017},
+  url={http://people.eecs.berkeley.edu/~reddy/files/DRL_Tutor_NIPS17_MT_Workshop.pdf}
+}
 ```
