@@ -20,13 +20,13 @@ Please contact the author at `sgr [at] berkeley [dot] edu` if you have questions
 
 Citation
 --------
-If you find this software useful in your work, we kindly request that you cite the following [paper](http://people.eecs.berkeley.edu/~reddy/files/DRL_Tutor_NIPS17_MT_Workshop.pdf):
+If you find this software useful in your work, we kindly request that you cite the following [paper](https://siddharth.io/files/deep-tutor.pdf):
 
 ```
 @InProceedings{Reddy/etal/17b,
   title={Accelerating Human Learning with Deep Reinforcement Learning},
   author={Reddy, Siddharth and Levine, Sergey and Dragan, Anca},
   year={2017},
-  url={http://people.eecs.berkeley.edu/~reddy/files/DRL_Tutor_NIPS17_MT_Workshop.pdf}
+  url={https://siddharth.io/files/deep-tutor.pdf}
 }
 ```
